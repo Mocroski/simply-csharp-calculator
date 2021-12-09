@@ -1,0 +1,16 @@
+C:\Users\mocro\Desktop\Projetos\CalculadoraCSharp\bin\Debug\netcoreapp3.1\CalculadoraCSharp.exe
+C:\Users\mocro\Desktop\Projetos\CalculadoraCSharp\bin\Debug\netcoreapp3.1\CalculadoraCSharp.deps.json
+C:\Users\mocro\Desktop\Projetos\CalculadoraCSharp\bin\Debug\netcoreapp3.1\CalculadoraCSharp.runtimeconfig.json
+C:\Users\mocro\Desktop\Projetos\CalculadoraCSharp\bin\Debug\netcoreapp3.1\CalculadoraCSharp.runtimeconfig.dev.json
+C:\Users\mocro\Desktop\Projetos\CalculadoraCSharp\bin\Debug\netcoreapp3.1\CalculadoraCSharp.dll
+C:\Users\mocro\Desktop\Projetos\CalculadoraCSharp\bin\Debug\netcoreapp3.1\CalculadoraCSharp.pdb
+C:\Users\mocro\Desktop\Projetos\CalculadoraCSharp\obj\Debug\netcoreapp3.1\CalculadoraCSharp.csproj.AssemblyReference.cache
+C:\Users\mocro\Desktop\Projetos\CalculadoraCSharp\obj\Debug\netcoreapp3.1\CalculadoraCSharp.Form1.resources
+C:\Users\mocro\Desktop\Projetos\CalculadoraCSharp\obj\Debug\netcoreapp3.1\CalculadoraCSharp.csproj.GenerateResource.cache
+C:\Users\mocro\Desktop\Projetos\CalculadoraCSharp\obj\Debug\netcoreapp3.1\CalculadoraCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mocro\Desktop\Projetos\CalculadoraCSharp\obj\Debug\netcoreapp3.1\CalculadoraCSharp.AssemblyInfoInputs.cache
+C:\Users\mocro\Desktop\Projetos\CalculadoraCSharp\obj\Debug\netcoreapp3.1\CalculadoraCSharp.AssemblyInfo.cs
+C:\Users\mocro\Desktop\Projetos\CalculadoraCSharp\obj\Debug\netcoreapp3.1\CalculadoraCSharp.csproj.CoreCompileInputs.cache
+C:\Users\mocro\Desktop\Projetos\CalculadoraCSharp\obj\Debug\netcoreapp3.1\CalculadoraCSharp.dll
+C:\Users\mocro\Desktop\Projetos\CalculadoraCSharp\obj\Debug\netcoreapp3.1\CalculadoraCSharp.pdb
+C:\Users\mocro\Desktop\Projetos\CalculadoraCSharp\obj\Debug\netcoreapp3.1\CalculadoraCSharp.genruntimeconfig.cache
